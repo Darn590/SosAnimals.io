@@ -1,0 +1,55 @@
+div {
+  background: #ff0000;
+}
+
+.bob {
+  text-align: center;
+  width: 400px;
+  padding-left: 245px;
+  margin-top: -3px;
+}
+
+.boby {
+  margin-top: -70px;
+  padding-left: 950px;
+  width: 400px;
+  text-align: center;
+}
+
+.sos {
+  color: #ff0000;
+}
+
+
+.ci{
+    padding-left:330px;
+}
+
+.one {
+    margin-left: 200px;
+    font-weight: bold;
+ border: 1px solid #000; 
+ width: 400px;
+ height: auto;
+ text-align: center;
+ overflow: auto;
+
+}
+
+
+
+
+.cc{
+    margin-left: 1050px;
+    margin-top: -150px;
+}
+
+.two{
+    margin-left: 950px;
+    font-weight: bold;
+    border: 1px solid #000;
+    width: 350px;
+    height: auto;
+    text-align: center;
+    overflow: auto;
+}
